@@ -40,6 +40,6 @@ Below is a list of certifications I have earned, showcasing my expertise and ski
    *Issued by:* Walmart via Forage  
    *Issued on:* December 9, 2024
 
-9. Master JavaScript, HTML, and CSS with 30 Projects in 30 Days
+9. **Master JavaScript, HTML, and CSS with 30 Projects in 30 Days**
    *Issued by:* Udemy
    *Issued on:* January 3, 2025
